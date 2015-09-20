@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TingYou</string>
+
+    <string name="scene_detail">Detail of the scene will be portrait here.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="into_scene">Here is the information of the specific scene</string>
+    <string name="title_activity_into_scene">IntoSceneActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+
+    <string name="bottom_bar_scene">景点</string>
+    <string name="bottom_bar_user_info">我的</string>
+    <string name="bottom_bar_more_info">更多</string>
+    
+    <string name="title_bar_text">听游</string>
+    <string name="title_search">搜索</string>
+
+    <string name="classify_my_collection">我的收藏</string>
+    <string name="classify_recent_online">新上线</string>
+    <string name="classify_on_activity">活动中</string>
+    <string name="classify_5a">5A</string>
+    <string name="classify_4a">4A</string>
+
+    <string name="user_info">Here is the user info segment that is to be implement</string>
+    <string name="more_info">Here is the more info segment that is to be implement</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="query_hint">搜索景点</string>
+</resources>
